@@ -1,7 +1,6 @@
 
 # 🚗 OLA Ride Data Analysis Dashboard
 
-**Dashboard Link:** *(Add your Power BI shareable link here)*
 
 ## 📌 Project Spotlight: OLA Cab Ride Analysis
 
